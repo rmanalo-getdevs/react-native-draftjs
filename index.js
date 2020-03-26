@@ -5,6 +5,8 @@ import PropTypes from "prop-types";
 
 const draftJsHtml = require("./draftjs-html-source/draftjs-source.html");
 
+//test
+
 class RNDraftView extends Component {
   static propTypes = {
     style: ViewPropTypes.style,
